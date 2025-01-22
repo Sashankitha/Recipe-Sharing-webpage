@@ -14,4 +14,4 @@
 <h4>
   After adding the recipee
 </h4>
-<img src  = "">
+<img src  = "output.png">
