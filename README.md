@@ -10,9 +10,8 @@
 <h4>
   Interface
 </h4>
-<img src = "">
+<img src = "interface.png">
 <h4>
   After adding the recipee
 </h4>
-<img src  = "![output](https://github.com/user-attachments/assets/09bd67ce-4e85-400f-97e9-e7c5d60a0dd6)
-">
+<img src  = "">
