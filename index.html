@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Sharing Platform</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Sharing Platform</h1>
+        <div class="form-container">
+            <h2>Share Your Recipe</h2>
+            <form id="recipeForm">
+                <input type="text" id="recipeName" placeholder="Recipe Name" required />
+                <textarea id="recipeDescription" placeholder="Recipe Description" required></textarea>
+                <button type="submit">Share Recipe</button>
+            </form>
+        </div>
+        <div class="recipe-list">
+            <h2>Shared Recipes</h2>
+            <ul id="recipeList"></ul>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
